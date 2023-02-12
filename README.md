@@ -7,6 +7,7 @@ repository that accompanies the bayes course on openHPI https://open.hpi.de/cour
 * https://vasishth.github.io/bayescogsci/book/
 * https://bayesiancomputationbook.com/
 * https://www.localmaxradio.com/
+* https://learnbayesstats.com/
 * https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 * http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 
